@@ -9,8 +9,9 @@ category:
   link:
     ID: "f54f6edc-771f-4c20-a3e6-7792d5207436"
     type: "generated-index"
-    description: "Lorem"
+    description: "5 minutes to learn the most important Docusaurus concepts."
     createdAt: 1656065518336
+    updatedAt: 1656065583947
   createdAt: 1656065495156
   updatedAt: 1656065563776
 createdAt: 1656065202870
