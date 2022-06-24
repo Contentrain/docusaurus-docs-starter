@@ -1,0 +1,10 @@
+[
+  {
+    "content": "# Manage Docs Versions\n\nDocusaurus can manage multiple versions of your docs.\n\n## Create a docs version\n\nRelease a version 1.0 of your project:\n\n```bash\nnpm run docusaurus docs:version 1.0\n```\n\nThe `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.\n\nYour docs now have 2 versions:\n\n- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs\n- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**\n\n## Add a Version Dropdown\n\nTo navigate seamlessly across versions, add a version dropdown.\n\nModify the `docusaurus.config.js` file:\n\n```js title=\"docusaurus.config.js\"\nmodule.exports = {\n  themeConfig: {\n    navbar: {\n      items: [\n        // highlight-start\n        {\n          type: 'docsVersionDropdown',\n        },\n        // highlight-end\n      ],\n    },\n  },\n};\n```\n\nThe docs version dropdown appears in your navbar:\n\n![Docs Version Dropdown](./img/docsVersionDropdown.png)\n\n## Update an existing version\n\nIt is possible to edit versioned docs in their respective folder:\n\n- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`\n- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`\n",
+    "ID": "adbf1eeb-9158-46fb-95bb-8e11dbf1b4ae",
+    "slug": "manage-docs-versions",
+    "sidebar-position": "1",
+    "category": [],
+    "createdAt": 1656065361236
+  }
+]
