@@ -8,7 +8,12 @@
       "ID": "f236d60e-ccab-41b8-80ba-de4cafafccf6",
       "label": "Tutorial - Extras",
       "position": 3,
-      "link": [],
+      "link": {
+        "ID": "f54f6edc-771f-4c20-a3e6-7792d5207436",
+        "type": "generated-index",
+        "description": "Lorem",
+        "createdAt": 1656065518336
+      },
       "createdAt": 1656065495156
     },
     "createdAt": 1656065202870
