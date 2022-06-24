@@ -4,6 +4,7 @@ slug: "markdown-features"
 sidebar-position: "4"
 category: []
 createdAt: 1656065311285
+updatedAt: 1656077419521
 
 ---
 # Markdown Features
@@ -49,7 +50,11 @@ Regular Markdown images are supported.
 
 You can use absolute paths to reference images in the static directory (`static/img/docusaurus.png`):
 
+```md
+![Docusaurus logo](../static/img/1656076947472_docusaurus.png)
+```
 
+![Docusaurus logo](../static/img/1656076947472_docusaurus.png)
 
 You can reference images relative to the current file as well, as shown in [the extra guides](../tutorial-extras/manage-docs-versions.md).
 
