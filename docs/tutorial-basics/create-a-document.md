@@ -1,7 +1,11 @@
 ---
-sidebar_position: 2
----
+ID: "6ab56810-2e2e-4707-8ee1-0c6c6524fa78"
+slug: "create-a-document"
+sidebar-position: "2"
+category: []
+createdAt: 1656065251895
 
+---
 # Create a Document
 
 Documents are **groups of pages** connected through:
