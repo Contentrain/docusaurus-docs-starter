@@ -26,5 +26,12 @@
     "alt": "locale dropdown png",
     "image": "static/img/1656077027872_localeDropdown.png",
     "createdAt": 1656077047648
+  },
+  {
+    "ID": "cab04655-ccee-4582-9b08-c1ed00bff61b",
+    "title": "Docs Version Dropdown",
+    "alt": "docs version dropdown png",
+    "image": "static/img/1656077058280_docsVersionDropdown.png",
+    "createdAt": 1656077082310
   }
 ]
