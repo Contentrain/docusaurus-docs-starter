@@ -81,7 +81,16 @@
     "slug": "mdx-blog-post",
     "ID": "ae451de3-8790-48cf-946d-1f640e90b36a",
     "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::\n",
-    "authors": [],
+    "authors": [
+      {
+        "ID": "2ed881b8-257e-4a59-843a-4059b1a1edcf",
+        "name": "Sébastien Lorber",
+        "title": "Docusaurus maintainer",
+        "url": "https://sebastienlorber.com",
+        "image-url": "https://github.com/slorber.png",
+        "createdAt": 1656067410350
+      }
+    ],
     "createdAt": 1656067359215
   }
 ]
