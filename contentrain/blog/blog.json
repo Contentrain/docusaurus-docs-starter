@@ -28,7 +28,8 @@
   },
   {
     "tags": [
-      "hola"
+      "hola",
+      "docusaurus"
     ],
     "slug": "first-blog-post",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
