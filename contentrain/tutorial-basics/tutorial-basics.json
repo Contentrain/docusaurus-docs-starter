@@ -2,7 +2,7 @@
   {
     "ID": "644fd12b-6f0b-4660-a5d5-43d47eb6ea56",
     "slug": "congratulations",
-    "content": "# Congratulations!\n\nYou have just learned the **basics of Docusaurus** and made some changes to the **initial template**.\n\nDocusaurus has **much more to offer**!\n\nHave **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.\n\nAnything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)\n\n## What's next?\n\n- Read the [official documentation](https://docusaurus.io/).\n- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)\n- Add a [search bar](https://docusaurus.io/docs/search)\n- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)\n- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)\n",
+    "content": "# Congratulations!\n\nYou have just learned the **basics of Docusaurus** and made some changes to the **initial template**.\n\nDocusaurus has **much more to offer**!\n\nHave **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.mdx)** and **[i18n](../tutorial-extras/translate-your-site.mdx)**.\n\nAnything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)\n\n## What's next?\n\n- Read the [official documentation](https://docusaurus.io/).\n- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)\n- Add a [search bar](https://docusaurus.io/docs/search)\n- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)\n- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)\n",
     "sidebar-position": "6",
     "category": {
       "ID": "f236d60e-ccab-41b8-80ba-de4cafafccf6",
@@ -18,7 +18,8 @@
       "createdAt": 1656065495156,
       "updatedAt": 1656065563776
     },
-    "createdAt": 1656065202870
+    "createdAt": 1656065202870,
+    "updatedAt": 1656079579618
   },
   {
     "ID": "690e9887-c731-4171-8983-f74807f33789",
