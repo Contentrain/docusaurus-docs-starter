@@ -4,6 +4,7 @@ slug: "create-a-document"
 sidebar-position: "2"
 category: []
 createdAt: 1656065251895
+updatedAt: 1656079607539
 
 ---
 # Create a Document
