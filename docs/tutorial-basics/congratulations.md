@@ -1,7 +1,11 @@
 ---
-sidebar_position: 6
----
+ID: "644fd12b-6f0b-4660-a5d5-43d47eb6ea56"
+slug: "congratulations"
+sidebar-position: "6"
+category: []
+createdAt: 1656065202870
 
+---
 # Congratulations!
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
