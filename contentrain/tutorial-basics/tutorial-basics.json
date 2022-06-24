@@ -4,7 +4,13 @@
     "slug": "congratulations",
     "content": "# Congratulations!\n\nYou have just learned the **basics of Docusaurus** and made some changes to the **initial template**.\n\nDocusaurus has **much more to offer**!\n\nHave **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.\n\nAnything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)\n\n## What's next?\n\n- Read the [official documentation](https://docusaurus.io/).\n- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)\n- Add a [search bar](https://docusaurus.io/docs/search)\n- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)\n- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)\n",
     "sidebar-position": "6",
-    "category": [],
+    "category": {
+      "ID": "f236d60e-ccab-41b8-80ba-de4cafafccf6",
+      "label": "Tutorial - Extras",
+      "position": 3,
+      "link": [],
+      "createdAt": 1656065495156
+    },
     "createdAt": 1656065202870
   },
   {
