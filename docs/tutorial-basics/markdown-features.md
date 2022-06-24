@@ -4,7 +4,7 @@ slug: "markdown-features"
 sidebar-position: "4"
 category: []
 createdAt: 1656065311285
-updatedAt: 1656077419521
+updatedAt: 1656079644508
 
 ---
 # Markdown Features
@@ -56,7 +56,7 @@ You can use absolute paths to reference images in the static directory (`static/
 
 ![Docusaurus logo](../../static/img/1656076947472_docusaurus.png)
 
-You can reference images relative to the current file as well, as shown in [the extra guides](../tutorial-extras/manage-docs-versions.md).
+You can reference images relative to the current file as well, as shown in [the extra guides](../tutorial-extras/manage-docs-versions.mdx).
 
 ## Code Blocks
 
