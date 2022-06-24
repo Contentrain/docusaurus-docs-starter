@@ -27,7 +27,9 @@
     "createdAt": 1656066104520
   },
   {
-    "tags": [],
+    "tags": [
+      "hola"
+    ],
     "slug": "first-blog-post",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
     "title": "First Blog Post",
