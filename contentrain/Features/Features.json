@@ -12,5 +12,12 @@
     "svg": "static/img/1656068685468_1656068232485_undraw_docusaurus_tree.svg",
     "description": " Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and move your docs into the <code>docs</code> directory.",
     "createdAt": 1656068698812
+  },
+  {
+    "ID": "7ae913e9-4941-404b-8154-e4ce2748c769",
+    "title": "Powered by React",
+    "svg": "static/img/1656068726867_1656068203185_undraw_docusaurus_react.svg",
+    "description": "Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the same header and footer.",
+    "createdAt": 1656068727961
   }
 ]
