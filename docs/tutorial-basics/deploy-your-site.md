@@ -1,7 +1,11 @@
 ---
-sidebar_position: 5
----
+ID: "99fcf9ba-40f3-4a95-b935-da7cd1b4708a"
+slug: "deploy-your-site"
+sidebar-position: "5"
+category: []
+createdAt: 1656065287435
 
+---
 # Deploy your site
 
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
