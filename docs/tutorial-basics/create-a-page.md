@@ -1,7 +1,11 @@
 ---
-sidebar_position: 1
----
+ID: "ea9bfab0-be59-4068-92ee-5ba5f7bbe533"
+slug: "create-a-page"
+sidebar-position: "1"
+category: []
+createdAt: 1656065268153
 
+---
 # Create a Page
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
