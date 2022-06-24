@@ -12,5 +12,12 @@
     "alt": "logo svg",
     "image": "static/img/1656076964449_logo.svg",
     "createdAt": 1656076971366
+  },
+  {
+    "ID": "a52af45b-534d-4896-a300-45c6d4840dec",
+    "title": "favicon",
+    "alt": "favicon.ico",
+    "image": "static/img/1656076982585_favicon.ico",
+    "createdAt": 1656076993254
   }
 ]
