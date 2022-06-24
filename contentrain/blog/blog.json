@@ -21,6 +21,14 @@
         "url": "https://github.com/yangshun",
         "image-url": "https://github.com/yangshun.png",
         "createdAt": 1656066189895
+      },
+      {
+        "ID": "ebc985d0-0aa8-4ecf-8698-304fe4b473c0",
+        "name": "Sébastien Lorber",
+        "title": "Docusaurus maintainer",
+        "url": "https://sebastienlorber.com",
+        "image-url": "https://github.com/slorber.png",
+        "createdAt": 1656066210536
       }
     ],
     "author": "",
