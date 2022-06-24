@@ -4,6 +4,7 @@ slug: "create-a-page"
 sidebar-position: "1"
 category: []
 createdAt: 1656065268153
+updatedAt: 1656079619791
 
 ---
 # Create a Page
