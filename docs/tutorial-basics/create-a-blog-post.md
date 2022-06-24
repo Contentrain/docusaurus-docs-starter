@@ -1,7 +1,11 @@
 ---
-sidebar_position: 3
----
+ID: "690e9887-c731-4171-8983-f74807f33789"
+slug: "create-a-blog-post"
+sidebar-position: "3"
+category: []
+createdAt: 1656065228678
 
+---
 # Create a Blog Post
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
