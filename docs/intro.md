@@ -3,9 +3,9 @@ slug: "intro"
 ID: "6aca3b57-444e-443a-8f50-9b7715d48706"
 sidebar-position: 1
 createdAt: 1656065162435
+updatedAt: 1656079560369
 
 ---
-
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
