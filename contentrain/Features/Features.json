@@ -5,5 +5,12 @@
     "svg": "static/img/1656068655237_1656068170189_undraw_docusaurus_mountain.svg",
     "description": " Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.",
     "createdAt": 1656068669286
+  },
+  {
+    "ID": "ba580951-80e9-481d-9d26-7fc5f5cf2c97",
+    "title": "Focus on What Matters",
+    "svg": "static/img/1656068685468_1656068232485_undraw_docusaurus_tree.svg",
+    "description": " Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and move your docs into the <code>docs</code> directory.",
+    "createdAt": 1656068698812
   }
 ]
