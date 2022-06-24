@@ -4,6 +4,7 @@ slug: "create-a-blog-post"
 sidebar-position: "3"
 category: []
 createdAt: 1656065228678
+updatedAt: 1656079593859
 
 ---
 # Create a Blog Post
