@@ -19,5 +19,12 @@
     "alt": "favicon.ico",
     "image": "static/img/1656076982585_favicon.ico",
     "createdAt": 1656076993254
+  },
+  {
+    "ID": "7c9f70e2-70e0-414b-942b-8d15c598d6c2",
+    "title": "Locale Dropdown",
+    "alt": "locale dropdown png",
+    "image": "static/img/1656077027872_localeDropdown.png",
+    "createdAt": 1656077047648
   }
 ]
